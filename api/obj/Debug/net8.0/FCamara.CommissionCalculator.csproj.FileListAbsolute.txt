@@ -1,0 +1,88 @@
+C:\Dev\FCamara\api\bin\Debug\net8.0\nlog.config
+C:\Dev\FCamara\api\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\FCamara\api\bin\Debug\net8.0\appsettings.json
+C:\Dev\FCamara\api\bin\Debug\net8.0\FCamara.CommissionCalculator.exe
+C:\Dev\FCamara\api\bin\Debug\net8.0\FCamara.CommissionCalculator.deps.json
+C:\Dev\FCamara\api\bin\Debug\net8.0\FCamara.CommissionCalculator.runtimeconfig.json
+C:\Dev\FCamara\api\bin\Debug\net8.0\FCamara.CommissionCalculator.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\FCamara.CommissionCalculator.pdb
+C:\Dev\FCamara\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\NLog.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Serilog.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\FCamara\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.csproj.AssemblyReference.cache
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.AssemblyInfoInputs.cache
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.AssemblyInfo.cs
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.csproj.CoreCompileInputs.cache
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.sourcelink.json
+C:\Dev\FCamara\api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\FCamara\api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\FCamara\api\obj\Debug\net8.0\staticwebassets\msbuild.FCamara.CommissionCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\FCamara\api\obj\Debug\net8.0\staticwebassets\msbuild.build.FCamara.CommissionCalculator.props
+C:\Dev\FCamara\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FCamara.CommissionCalculator.props
+C:\Dev\FCamara\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FCamara.CommissionCalculator.props
+C:\Dev\FCamara\api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev\FCamara\api\obj\Debug\net8.0\scopedcss\bundle\FCamara.CommissionCalculator.styles.css
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara..ECE7612A.Up2Date
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.dll
+C:\Dev\FCamara\api\obj\Debug\net8.0\refint\FCamara.CommissionCalculator.dll
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.pdb
+C:\Dev\FCamara\api\obj\Debug\net8.0\FCamara.CommissionCalculator.genruntimeconfig.cache
+C:\Dev\FCamara\api\obj\Debug\net8.0\ref\FCamara.CommissionCalculator.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\nlog.config
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\appsettings.json
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\FCamara.CommissionCalculator.exe
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\FCamara.CommissionCalculator.deps.json
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\FCamara.CommissionCalculator.runtimeconfig.json
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\FCamara.CommissionCalculator.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\FCamara.CommissionCalculator.pdb
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\NLog.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Serilog.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\FCamara - Copy\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.csproj.AssemblyReference.cache
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.AssemblyInfoInputs.cache
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.AssemblyInfo.cs
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.csproj.CoreCompileInputs.cache
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.sourcelink.json
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\staticwebassets\msbuild.FCamara.CommissionCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\staticwebassets\msbuild.build.FCamara.CommissionCalculator.props
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FCamara.CommissionCalculator.props
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FCamara.CommissionCalculator.props
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\scopedcss\bundle\FCamara.CommissionCalculator.styles.css
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara..ECE7612A.Up2Date
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.dll
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\refint\FCamara.CommissionCalculator.dll
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.pdb
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\FCamara.CommissionCalculator.genruntimeconfig.cache
+C:\Dev\FCamara - Copy\api\obj\Debug\net8.0\ref\FCamara.CommissionCalculator.dll

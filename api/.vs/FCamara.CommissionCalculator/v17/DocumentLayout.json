@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\FCamara\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\services\\commisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:services\\commisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\controllers\\commissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:controllers\\commissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\models\\commissioncalculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:models\\commissioncalculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\fcamara.commissioncalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:fcamara.commissioncalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\models\\commissioncalculationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:models\\commissioncalculationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\services\\icommissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:services\\icommissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|c:\\dev\\fcamara\\api\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E494BE1F-D402-4C9C-B0D4-5F99249377CC}|FCamara.CommissionCalculator.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C987FF-1197-46BB-AF2D-492A9775B281}|..\\FCamara.CommissionCalculator.Tests\\FCamara.CommissionCalculator.Tests.csproj|c:\\dev\\fcamara\\fcamara.commissioncalculator.tests\\helpers\\mockdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C987FF-1197-46BB-AF2D-492A9775B281}|..\\FCamara.CommissionCalculator.Tests\\FCamara.CommissionCalculator.Tests.csproj|c:\\dev\\fcamara\\fcamara.commissioncalculator.tests\\controllers\\commissioncalculatorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C987FF-1197-46BB-AF2D-492A9775B281}|..\\FCamara.CommissionCalculator.Tests\\FCamara.CommissionCalculator.Tests.csproj|c:\\dev\\fcamara\\fcamara.commissioncalculator.tests\\fixtures\\commissionservicefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T07:39:13.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MockDataHelper.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\FCamara.CommissionCalculator.Tests\\Helpers\\MockDataHelper.cs",
+              "RelativeDocumentMoniker": "..\\FCamara.CommissionCalculator.Tests\\Helpers\\MockDataHelper.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\FCamara.CommissionCalculator.Tests\\Helpers\\MockDataHelper.cs",
+              "RelativeToolTip": "..\\FCamara.CommissionCalculator.Tests\\Helpers\\MockDataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:52:25.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FCamara.CommissionCalculator.csproj",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\FCamara.CommissionCalculator.csproj",
+              "RelativeDocumentMoniker": "FCamara.CommissionCalculator.csproj",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\FCamara.CommissionCalculator.csproj",
+              "RelativeToolTip": "FCamara.CommissionCalculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T06:46:16.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommissionCalculationResponse.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\Models\\CommissionCalculationResponse.cs",
+              "RelativeDocumentMoniker": "Models\\CommissionCalculationResponse.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\Models\\CommissionCalculationResponse.cs",
+              "RelativeToolTip": "Models\\CommissionCalculationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:11:18.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommisionService.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\Services\\CommisionService.cs",
+              "RelativeDocumentMoniker": "Services\\CommisionService.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\Services\\CommisionService.cs",
+              "RelativeToolTip": "Services\\CommisionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:08:49.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommissionCalculatorControllerTests.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\FCamara.CommissionCalculator.Tests\\Controllers\\CommissionCalculatorControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\FCamara.CommissionCalculator.Tests\\Controllers\\CommissionCalculatorControllerTests.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\FCamara.CommissionCalculator.Tests\\Controllers\\CommissionCalculatorControllerTests.cs",
+              "RelativeToolTip": "..\\FCamara.CommissionCalculator.Tests\\Controllers\\CommissionCalculatorControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:25:21.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommissionController.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\Controllers\\CommissionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommissionController.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\Controllers\\CommissionController.cs",
+              "RelativeToolTip": "Controllers\\CommissionController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:06:17.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommissionCalculationRequest.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\Models\\CommissionCalculationRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CommissionCalculationRequest.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\Models\\CommissionCalculationRequest.cs",
+              "RelativeToolTip": "Models\\CommissionCalculationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:09:52.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:05:21.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommissionServiceFixture.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\FCamara.CommissionCalculator.Tests\\Fixtures\\CommissionServiceFixture.cs",
+              "RelativeDocumentMoniker": "..\\FCamara.CommissionCalculator.Tests\\Fixtures\\CommissionServiceFixture.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\FCamara.CommissionCalculator.Tests\\Fixtures\\CommissionServiceFixture.cs",
+              "RelativeToolTip": "..\\FCamara.CommissionCalculator.Tests\\Fixtures\\CommissionServiceFixture.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:53:07.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICommissionService.cs",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\Services\\ICommissionService.cs",
+              "RelativeDocumentMoniker": "Services\\ICommissionService.cs",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\Services\\ICommissionService.cs",
+              "RelativeToolTip": "Services\\ICommissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:13:22.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Dev\\FCamara\\api\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "C:\\Dev\\FCamara\\api\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-11T05:59:37.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

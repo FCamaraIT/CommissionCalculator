@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FCamara.CommissionCalculator.props" />
+</Project>
