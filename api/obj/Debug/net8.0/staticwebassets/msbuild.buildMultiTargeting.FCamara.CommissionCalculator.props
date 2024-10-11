@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FCamara.CommissionCalculator.props" />
+</Project>
